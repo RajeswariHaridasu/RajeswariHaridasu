@@ -1,11 +1,11 @@
 Hi 👋, I'm Rajeswari Haridasu
 Data Analyst | Power BI Developer | SQL | Python
 
-I’m a Data Analyst / BI professional with 4 years of experience in data analysis, automation, reporting, and business intelligence.
+I’m a Data Analyst / BI professional with 4 years of experience in data analysis, automation, reporting, and business intelligence. Experienced in using SQL, Python, Power BI, DAX, Power Query, and Excel to transform raw data into actionable insights and interactive dashboards.  
 
 I enjoy transforming raw data into actionable insights, interactive dashboards, and data-driven solutions using SQL, Python, Power BI, and Excel.
 
-🛠️ Technical Skills
+🛠️**Technical Skills**
 
 Data Analysis
 
@@ -44,7 +44,8 @@ JIRA
 Confluence
 Linux
 Tableau
-Featured Projects
+
+📊**Featured Projects**
 
 **Zomato Data Analysis**
 Python | Pandas | SQL | Power BI
@@ -79,7 +80,7 @@ Conducted EDA to identify trends and patterns.
 Generated business insights from structured datasets.
 Created visualizations to communicate findings effectively.
 
-**Certifications**
+📜**Certifications**
 
 Microsoft Power BI Data Analyst – PL-300
 HackerRank SQL – 4-Star
