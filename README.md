@@ -44,7 +44,7 @@ JIRA
 Confluence
 Linux
 Tableau
-📊 Featured Projects
+Featured Projects
 
 **Zomato Data Analysis**
 Python | Pandas | SQL | Power BI
